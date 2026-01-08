@@ -14,4 +14,3 @@ for ($i = 0; $i < $longueur; $i++) {
 }
 
 echo $nouveauStr;
-?>

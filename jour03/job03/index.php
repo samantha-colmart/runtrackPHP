@@ -7,3 +7,11 @@ for ($i = 0; $i < strlen($str); $i++) {
         echo $str[$i];
     }
 }
+
+
+
+// for ($i = 0; isset($str[$i]) ; $i++) {
+//     if (strpos($voyelles, $str[$i]) !== false) {
+//         echo $str[$i];
+//     }
+// }

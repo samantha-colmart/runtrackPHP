@@ -11,6 +11,6 @@ for ($i = 0; $i < strlen($str); $i += 2) {
 
 
 
-for ($i = 0; isset($str[$i]); $i += 2) {
-    echo $str[$i];
-}
+// for ($i = 0; isset($str[$i]); $i += 2) {
+//     echo $str[$i];
+// }
