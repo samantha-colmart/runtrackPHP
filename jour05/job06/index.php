@@ -27,5 +27,5 @@ $result = "";
     return $result;
 }
 
-echo leetspeak ("Bonjour le Monde and Hello World ! Joyeux noel 2025");
+echo "Bonjour le Monde and Hello World ! Joyeux noël 2025 = " . leetspeak ("Bonjour le Monde and Hello World ! Joyeux noël 2025");
 // echo "<pre>" . leetspeak ("Bonjour le Monde and Hello World ! Joyeux noel 2025") . "</pre>" ;
